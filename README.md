@@ -1,1 +1,1 @@
-# sportFIT
+# SweatDB
